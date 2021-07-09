@@ -1,0 +1,13 @@
+.itemContainer{
+    width: 360px;
+    height: 160px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.itemImage{
+    width: 160px;
+    height: 160px;
+    background-image: url(./images/breakfast.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
